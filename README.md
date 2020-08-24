@@ -12,8 +12,8 @@
     도구들:
     - Java
     - Python(Flask)
-    - Web Crawling
-    - Machine Learning
+      - Web Crawling
+      - Machine Learning
     - HTML/CSS
     - Oracle DB
     - 머신러닝: xgboost
